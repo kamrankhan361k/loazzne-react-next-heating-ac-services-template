@@ -1,0 +1,28 @@
+{
+  "name": "loazzne-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/josefin-sans": "^4.5.0",
+    "bootstrap": "5.1.1",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-bootstrap": "^2.0.0-rc.0",
+    "react-countup": "^6.0.0",
+    "react-dom": "17.0.2",
+    "react-modal-video": "^1.2.8",
+    "react-scroll": "^1.8.4",
+    "react-visibility-sensor": "^5.1.1",
+    "swiper": "^7.0.6"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
